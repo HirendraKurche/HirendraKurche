@@ -58,25 +58,12 @@ Next.js + Firebase + Cloudinary | Real-time complaint reporting & tracking syste
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HirendraKurche&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HirendraKurche&theme=tokyonight" height="150" />
-</p>  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HirendraKurche&layout=compact&theme=tokyonight" height="150" />
-</p>  
-
----
-
 ## 🔗 Connect With Me  
 
-- 🌐 Portfolio: [hirendra kurche](https://portfolio-zeta-ashen-41.vercel.app/)  
+
 - 💼 LinkedIn: [linkedin.com/in/hirendra-kurche](https://www.linkedin.com/in/hirendra-kurche-735a02228/)  
 - 📧 Email: **hirendrakurche423@gmail.com**  
-- 📄 [Resume](https://drive.google.com/file/d/1Sl_sUawK_31UtQOt-I1EAbtQI5bBytDy/view?usp=sharing)  
+  
 
 ---
 ⭐️ From [HirendraKurche](https://github.com/HirendraKurche)
